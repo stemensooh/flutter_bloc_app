@@ -1,6 +1,6 @@
 import 'package:bloc/bloc.dart';
 import 'package:bloc_app/counter/counter_observer.dart';
-import 'package:bloc_app/posts/app.dart';
+import 'package:bloc_app/login/app.dart';
 import 'package:flutter/widgets.dart';
 
 void main() {
